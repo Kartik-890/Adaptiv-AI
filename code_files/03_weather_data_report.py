@@ -4,7 +4,9 @@ from datetime import datetime
 from pathlib import Path
 from collections import Counter
 
+
 class WeatherAnalyzer:
+    
     def __init__(self, csv_file):
         self.csv_file = csv_file
         self.df = pd.read_csv(csv_file)

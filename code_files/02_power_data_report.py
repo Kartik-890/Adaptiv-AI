@@ -53,8 +53,10 @@ class DataAnalyzer:
                 f.write(f"{i:2d}. {col:<30} | Type: {dtype:<10} | "
                        f"Non-null: {non_null:>8,} | Missing: {null_count:>6,} ({null_pct:5.1f}%)\n")
             
+
             # Data by Year
             if 'year' in self.df.columns:
+                
                 f.write(f"\nDATA BY YEAR\n")
                 f.write("-" * 30 + "\n")
                 year_counts = self.df['year'].value_counts().sort_index()

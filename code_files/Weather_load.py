@@ -4,8 +4,10 @@ from datetime import datetime
 from collections import defaultdict, Counter
 import pandas as pd
 
+
 def list_weather_files_to_csv():
     """List weather files and save to CSV with comprehensive reporting"""
+
     
     # Weather base path
     weather_base = r"C:\Users\karti\Desktop\data_set\Weather data\Weather data"
@@ -22,6 +24,7 @@ def list_weather_files_to_csv():
     extension_stats = defaultdict(int)
     folder_stats = defaultdict(int)
     total_size = 0
+    
     
     for root, dirs, files in os.walk(weather_base):
         for file in files:

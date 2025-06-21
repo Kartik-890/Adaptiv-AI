@@ -5,6 +5,7 @@ import seaborn as sns
 import numpy as np
 from pathlib import Path
 
+
 base_path = r"C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data"
 
 # Define building types and years
