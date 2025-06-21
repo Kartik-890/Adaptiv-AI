@@ -1,0 +1,76 @@
+WEATHER DATA - COMPLETE ANALYSIS REPORT
+============================================================
+Generated: 2025-06-15 23:45:07
+Source: weather_files_list.csv
+============================================================
+
+BASIC OVERVIEW
+------------------------------
+Total Files: 1,826
+Columns: 6
+Dataset Size: 0.64 MB
+Total Storage: 0.02 GB
+Avg File Size: 0.01 MB
+Largest File: 0.01 MB
+Data Quality: 100.0%
+
+ FILES BY YEAR
+------------------------------
+2017: 365 files (20.0%)
+2018: 365 files (20.0%)
+2019: 365 files (20.0%)
+2020: 366 files (20.0%)
+2021: 365 files (20.0%)
+
+ FILE TYPES
+------------------------------
+.xlsx: 1,826 files (100.0%)
+
+ WEATHER DATA TYPES DETECTED
+------------------------------
+
+NUMERIC STATISTICS
+------------------------------
+
+File_Size_MB:
+  Mean: 0.01
+  Median: 0.01
+  Min: 0.01
+  Max: 0.01
+  Std: 0.00
+
+ DATA ISSUES
+------------------------------
+No missing data
+Duplicate rows: 0
+Zero-size files: 0
+
+ FILES BY YEAR & TYPE
+------------------------------
+File_Extension  .xlsx   All
+Year                       
+2017              365   365
+2018              365   365
+2019              365   365
+2020              366   366
+2021              365   365
+All              1826  1826
+
+ RECOMMENDATIONS
+------------------------------
+Excellent data quality
+ Multi-year data available
+ Small dataset - easy to process
+
+ SAMPLE DATA (First 5 rows)
+--------------------------------------------------
+    File_Name                                                                    Full_Path  Year File_Extension  File_Size_MB                                                    Folder_Path
+20170101.xlsx C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017\20170101.xlsx  2017          .xlsx          0.01 C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017
+20170102.xlsx C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017\20170102.xlsx  2017          .xlsx          0.01 C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017
+20170103.xlsx C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017\20170103.xlsx  2017          .xlsx          0.01 C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017
+20170104.xlsx C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017\20170104.xlsx  2017          .xlsx          0.01 C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017
+20170105.xlsx C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017\20170105.xlsx  2017          .xlsx          0.01 C:\Users\karti\Desktop\data_set\Weather data\Weather data\2017
+
+============================================================
+ANALYSIS COMPLETE
+============================================================

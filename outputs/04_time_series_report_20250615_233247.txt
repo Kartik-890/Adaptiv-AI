@@ -1,0 +1,14 @@
+ELECTRIC POWER DATA - TIME SERIES ANALYSIS
+============================================================
+Generated on: 2025-06-15 23:33:03
+
+DATETIME COLUMNS FOUND
+------------------------------
+
+Analyzing column: Time
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Valid datetime entries: 3,182,784
+Invalid datetime entries: 0
+Date range: 2016-01-01 00:00:00 to 2022-01-01 00:00:00
+Time span: 2192 days
+Most common time interval: 0 days 00:05:00

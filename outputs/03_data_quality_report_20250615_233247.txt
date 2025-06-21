@@ -1,0 +1,40 @@
+ELECTRIC POWER DATA - DATA QUALITY ASSESSMENT
+============================================================
+Generated on: 2025-06-15 23:32:59
+
+MISSING DATA ANALYSIS
+------------------------------
+Column                         | Missing Count   | Missing % 
+------------------------------------------------------------
+Time                           |             0 |     0.00%
+Power (kW)                     |       478,518 |    15.03%
+file_path                      |             0 |     0.00%
+file_name                      |             0 |     0.00%
+year                           |             0 |     0.00%
+building_type                  |             0 |     0.00%
+
+Overall Data Completeness: 97.49%
+
+DUPLICATE RECORDS ANALYSIS
+------------------------------
+Total duplicate rows: 0
+Percentage of duplicates: 0.00%
+Duplicate file names: 3,156,846
+
+DATA TYPE ANALYSIS
+------------------------------
+object         : 4 columns
+float64        : 1 columns
+int64          : 1 columns
+
+FILE COVERAGE ANALYSIS
+------------------------------
+Records by Year and Building Type:
+building_type  Commercial  Office  Public  Residential
+year                                                  
+2016               132858  132858  132858       132858
+2017               132495  132495  132495       132495
+2018               132495  132495  132495       132495
+2019               132495  132495  132495       132495
+2020               132858  114924  150792       132858
+2021               132495  132495  132495       132495

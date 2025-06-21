@@ -1,0 +1,30 @@
+ELECTRIC POWER DATA ANALYSIS - EXECUTIVE SUMMARY
+============================================================
+Generated on: 2025-06-15 23:32:53
+
+KEY METRICS
+--------------------
+Total Records: 3,182,784
+Total Columns: 6
+Dataset Size: 1246.13 MB
+Years Covered: 2016 - 2021 (6 years)
+Building Types: 4
+Source Files: 25938
+ Data Quality Score: 97.5%
+
+TOP DATA ISSUES
+--------------------
+Columns with most missing data:
+  • Power (kW): 478,518 missing (15.0%)
+
+RECOMMendations
+--------------------
+Ready for statistical analysis
+Suitable for trend analysis
+
+============================================================
+DETAILED REPORTS GENERATED:
+01_basic_report_[timestamp].txt - Dataset overview
+02_statistical_report_[timestamp].txt - Statistical analysis
+03_data_quality_report_[timestamp].txt - Data quality assessment
+04_time_series_report_[timestamp].txt - Time series analysis

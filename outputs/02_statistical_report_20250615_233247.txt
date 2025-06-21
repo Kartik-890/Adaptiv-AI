@@ -1,0 +1,79 @@
+ELECTRIC POWER DATA - STATISTICAL ANALYSIS REPORT
+============================================================
+Generated on: 2025-06-15 23:32:58
+
+NUMERIC COLUMNS STATISTICAL SUMMARY
+----------------------------------------
+
+Column: Power (kW)
+~~~~~~~~~~~~~~~~~~~~
+Count: 2,704,266
+Mean: 402.0042
+Median: 288.2200
+Std Dev: 298.4419
+Min: 0.0000
+Max: 2370.4200
+25th Percentile: 193.8000
+75th Percentile: 534.3900
+Outliers (IQR method): 131,940 (4.88%)
+
+
+CATEGORICAL COLUMNS ANALYSIS
+----------------------------------------
+
+Column: Time
+~~~~~~~~~~~~~~~~~~~~
+Unique values: 631297
+Most common values:
+  2018-12-19 00:00:00           :       26 (  0.0%)
+  2021-06-30 00:00:00           :       26 (  0.0%)
+  2016-12-01 00:00:00           :       26 (  0.0%)
+  2018-07-30 00:00:00           :       26 (  0.0%)
+  2021-08-30 00:00:00           :       26 (  0.0%)
+  2020-09-12 00:00:00           :       26 (  0.0%)
+  2019-03-11 00:00:00           :       26 (  0.0%)
+  2016-11-30 00:00:00           :       26 (  0.0%)
+  2016-01-22 00:00:00           :       26 (  0.0%)
+  2019-05-31 00:00:00           :       25 (  0.0%)
+  and 631287 more unique values
+
+Column: file_path
+~~~~~~~~~~~~~~~~~~~~
+Unique values: 26304
+Most common values:
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  C:\Users\karti\Desktop\data_se:      289 (  0.0%)
+  and 26294 more unique values
+
+Column: file_name
+~~~~~~~~~~~~~~~~~~~~
+Unique values: 25938
+Most common values:
+  20211215_5min_Residential.xlsx:      289 (  0.0%)
+  20211231_5min_Residential.xlsx:      289 (  0.0%)
+  20211214_5min_Residential.xlsx:      289 (  0.0%)
+  20211213_5min_Residential.xlsx:      289 (  0.0%)
+  20211212_5min_Residential.xlsx:      289 (  0.0%)
+  20211211_5min_Residential.xlsx:      289 (  0.0%)
+  20211210_5min_Residential.xlsx:      289 (  0.0%)
+  20211209_5min_Residential.xlsx:      289 (  0.0%)
+  20211208_5min_Residential.xlsx:      289 (  0.0%)
+  20211207_5min_Residential.xlsx:      289 (  0.0%)
+  and 25928 more unique values
+
+Column: building_type
+~~~~~~~~~~~~~~~~~~~~
+Unique values: 4
+Most common values:
+  Public                        :  813,630 ( 25.6%)
+  Commercial                    :  795,696 ( 25.0%)
+  Residential                   :  795,696 ( 25.0%)
+  Office                        :  777,762 ( 24.4%)

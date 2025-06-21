@@ -1,0 +1,49 @@
+ELECTRIC POWER DATA - BASIC ANALYSIS REPORT
+============================================================
+Generated on: 2025-06-15 23:32:56
+
+DATASET OVERVIEW
+------------------------------
+Total Records: 3,182,784
+Total Columns: 6
+Memory Usage: 1246.13 MB
+
+COLUMN INFORMATION
+------------------------------
+ 1. Time                           | Type: object     | Non-null: 3,182,784 | Missing:      0 (  0.0%)
+ 2. Power (kW)                     | Type: float64    | Non-null: 2,704,266 | Missing: 478,518 ( 15.0%)
+ 3. file_path                      | Type: object     | Non-null: 3,182,784 | Missing:      0 (  0.0%)
+ 4. file_name                      | Type: object     | Non-null: 3,182,784 | Missing:      0 (  0.0%)
+ 5. year                           | Type: int64      | Non-null: 3,182,784 | Missing:      0 (  0.0%)
+ 6. building_type                  | Type: object     | Non-null: 3,182,784 | Missing:      0 (  0.0%)
+
+DATA BY YEAR
+------------------------------
+2016: 531,432 records
+2017: 529,980 records
+2018: 529,980 records
+2019: 529,980 records
+2020: 531,432 records
+2021: 529,980 records
+
+DATA BY BUILDING TYPE
+------------------------------
+Public: 813,630 records
+Commercial: 795,696 records
+Residential: 795,696 records
+Office: 777,762 records
+
+SAMPLE DATA (First 10 rows)
+--------------------------------------------------
+               Time  Power (kW)                                                                                                                                          file_path                      file_name  year building_type
+2016-01-01 00:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 01:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 02:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 03:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 04:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 05:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 06:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 07:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 08:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+2016-01-01 09:00:00         NaN C:\Users\karti\Desktop\data_set\Electric power load data\Electric power load data\2016\1_hour\2016_1hour_Commercial\20160101_1hour_Commercial.xlsx 20160101_1hour_Commercial.xlsx  2016    Commercial
+
