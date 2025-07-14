@@ -11,3 +11,7 @@ Based on historical energy data and external variables, predictions are made abo
 * Contribution to the reduction of the CO2 footprint
 
 ## conduct the data visulization process to understnd the datasets
+
+* Time series plot
+* histograms
+* hetamapsp
