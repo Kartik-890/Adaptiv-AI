@@ -10,3 +10,4 @@ Based on historical energy data and external variables, predictions are made abo
 * Support for the integration of renewable energies
 * Contribution to the reduction of the CO2 footprint
 
+## conduct the data visulization process to understnd the datasets
